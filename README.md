@@ -31,18 +31,20 @@ Currently, I volunteer with a charity supporting employment for individuals post
 
 - Built on large language models, this service assists healthcare providers by handling complex medical terminology, ensuring effective communication across languages.
 
-## 👥 Reddit User Analyzer
+## 👥 SnooSnoop: A Reddit User Analyser (https://snoosnoop.com)
 
-**Objective**: Analyze Reddit user behavior to provide insights into content engagement and community interactions.
+**Objective**: Analyse Reddit user behavior to provide insights into content engagement and interactions.
 
 - Captures user activity metrics, posting habits, and engagement trends, ideal for understanding social media dynamics and user influence.
+
+![SnooSnoop Profile Analysis Demo](https://github.com/doctorsketch/doctorsketch/raw/main/snoosnoop-profile.gif)
 
 # 💡 Tech Stack & Skills
 
 - **Languages**: Python, JavaScript
 - **Frameworks**: Django, Flask
 - **Databases**: PostgreSQL, Elasticsearch, Vector databases
-- **Machine Learning**: Llama.cpp, OpenAI Whisper \(custom configurations\), RAG for data augmentation
+- **Machine Learning**: Llama.cpp, OpenAI Whisper, RAG for data augmentation
 - **Tools**: Vulture for code analysis, Content-Security-Policy improvements
 
 # 🌱 What I'm Learning
