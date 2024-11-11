@@ -29,7 +29,8 @@ https://insidejobsearch.xyz
 
 ![insidejobsearch Job Portal Demo](https://github.com/doctorsketch/doctorsketch/raw/main/insidejobsearch-search.gif)
 
-## 🧑‍⚕️ Medical Transcription & Translation Service
+## 🧑‍⚕️ ClariScribe: A Medical Transcription & Translation Service
+https://clariscribe.com
 
 **Objective**: Facilitate accurate transcriptions and translations of medical notes, especially for multilingual healthcare contexts.
 
