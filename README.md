@@ -3,7 +3,7 @@
 ## 👤 About Me
 
 I'm a self-taught developer with a passion for building practical tech solutions that address real-world challenges. Coming from a unique background, my path in tech is defined by resilience, self-discipline, and a drive to learn continuously. I take pride in having completed several projects from initial concept to full deployment.  
-My work spans web development, data engineering, and machine learning, tailored to help organizations and charities achieve meaningful impact.
+My work spans web development, data engineering, and machine learning, tailored to help organisations and charities achieve meaningful impact.
 
 ## 💼 Professional Background
 
@@ -15,8 +15,8 @@ Currently, I volunteer with a charity supporting employment for individuals post
 
 **Objective**: Streamline the grant application process by using RAG \(Retrieval-Augmented Generation\) and a custom vector database to embed question-answer data.
 
-- This application reads previous funding applications, categorizes content, and retrieves relevant data to generate new answers.
-- Features a local language model server to prioritize data privacy and cost savings.
+- This application reads previous funding applications, categorises content, and retrieves relevant data to generate new answers.
+- Features a local language model server to prioritise data privacy and cost savings.
 
 ## 💼 Inside Job Charity Job Portal (https://insidejobsearch.xyz)
 
