@@ -18,12 +18,14 @@ Currently, I volunteer with a charity supporting employment for individuals post
 - This application reads previous funding applications, categorizes content, and retrieves relevant data to generate new answers.
 - Features a local language model server to prioritize data privacy and cost savings.
 
-## 💼 Charity Job Portal
+## 💼 Inside Job Charity Job Portal (https://insidejobsearch.xyz)
 
-**Objective**: Enhance employment access through a job portal that scrapes over 20,000 job listings daily, with advanced search and location filtering.
+**Objective**: Enhance employment access through a job portal that scrapes over 20,000 job listings daily, with elasticsearch (fuzzyness and synonyms) and location filtering.
 
-- Powered by Django and Elasticsearch, this portal offers comprehensive search features, including custom analyzers for precise job title matching and adjustable fuzziness.
-- Includes location filtering, making it an essential tool for job seekers needing local employment opportunities.
+- Powered by Django and Elasticsearch, this portal offers comprehensive search features, including custom analysers for precise job title matching and adjustable fuzziness.
+- Includes location filtering, making it an essential tool for localising employment opportunities.
+
+![insidejobsearch Job Portal Demo](https://github.com/doctorsketch/doctorsketch/raw/main/insidejobsearch-search.gif)
 
 ## 🧑‍⚕️ Medical Transcription & Translation Service
 
