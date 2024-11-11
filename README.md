@@ -11,14 +11,16 @@ Currently, I volunteer with a charity supporting employment for individuals post
 
 # 🔧 Key Projects
 
-## 🌐 Web-Based Funding Application Generator
+## 🌐 Funding Assistant: A Web-Based Funding Application Generator
+https://fundingassistant.xyz
 
-**Objective**: Streamline the grant application process by using RAG \(Retrieval-Augmented Generation\) and a custom vector database to embed question-answer data.
+**Objective**: Streamline the grant application process by using RAG \(Retrieval-Augmented Generation\) and a custom vector database to embed previous question-answer data.
 
-- This application reads previous funding applications, categorises content, and retrieves relevant data to generate new answers.
+- This application reads previous funding applications, categorises content, and retrieves relevant data to generate new answers based on the set requirements.
 - Features a local language model server to prioritise data privacy and cost savings.
 
-## 💼 Inside Job Charity Job Portal (https://insidejobsearch.xyz)
+## 💼 Inside Job Charity Job Portal
+https://insidejobsearch.xyz
 
 **Objective**: Enhance employment access through a job portal that scrapes over 20,000 job listings daily, with elasticsearch (fuzzyness and synonyms) and location filtering.
 
@@ -33,7 +35,8 @@ Currently, I volunteer with a charity supporting employment for individuals post
 
 - Built on large language models, this service assists healthcare providers by handling complex medical terminology, ensuring effective communication across languages.
 
-## 👥 SnooSnoop: A Reddit User Analyser (https://snoosnoop.com)
+## 👥 SnooSnoop: A Reddit User Analyser
+https://snoosnoop.com
 
 **Objective**: Analyse Reddit user behavior to provide insights into content engagement and interactions.
 
