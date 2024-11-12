@@ -27,7 +27,7 @@ https://insidejobsearch.xyz
 - Powered by Django and Elasticsearch, this portal offers comprehensive search features, including custom analysers for precise job title matching and adjustable fuzziness.
 - Includes location filtering, making it an essential tool for localising employment opportunities.
 
-<video src='https://insidejobsearch.xyz/static/images/insidejobsearch-search.mp4' width=720/>
+<video src='https://insidejobsearch.xyz/static/images/insidejobsearch-search.mp4'></video>
 
 ## 🧑‍⚕️ ClariScribe: A Medical Transcription & Translation Service
 https://clariscribe.com
@@ -43,7 +43,7 @@ https://snoosnoop.com
 
 - Captures user activity metrics, posting habits, and engagement trends, ideal for understanding social media dynamics and user influence.
 
-<video src='https://snoosnoop.com/static/img/snoosnoop-profile.mp4' width=720/>
+<video src='https://snoosnoop.com/static/img/snoosnoop-profile.mp4'></video>
 
 # 💡 Tech Stack & Skills
 
